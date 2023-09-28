@@ -3,7 +3,7 @@
 ### <strong>Leo</strong>
 #### Male Tabby Cat
 ##### 2014
-<img src= >
+<img src= "https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/31f055aa-4067-488c-aaa9-c77c05612659" />
 > Leo loves to bother me.
 
 <br> </br>
