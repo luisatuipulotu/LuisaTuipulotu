@@ -1,4 +1,6 @@
 # <strong>All About My Pets</strong>
+<br> 
+
 ## Cats
 ### <strong>Leo</strong>
 #### Male Tabby Cat
@@ -23,7 +25,9 @@
 ### <strong>Pumpkin</strong>
 #### Male Ginger Cat
 ##### 2017
-<img src= >
+
+<img src="https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/d566e0b8-11c9-4bba-ae47-086b1c89828b" WIDTH="300" />
+
 > Pumpkin likes to explore outside.
 
 <br> 
@@ -31,7 +35,9 @@
 ### <strong>Stormy</strong>
 #### Female Tuxedo Cat
 ##### 2017
-<img src= >
+
+<img src= "https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/51db03e4-685d-4315-9155-9c2958ee25ad" width="300" />
+
 > Stormy loves eatting.
 
 <br> 
