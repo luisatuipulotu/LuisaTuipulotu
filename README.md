@@ -1,12 +1,12 @@
-
+# <strong>All About My Pets</strong>
 ## Cats
 ### <strong>Leo</strong>
 #### Male Tabby Cat
 ##### 2014
 <img src= >
 > Leo loves to bother me.
-<div> </div>
 
+<br> </br>
 
 ### <strong>Lyla</strong>
 #### Female Tabby Cat
@@ -15,6 +15,7 @@
 
 > Lyla knows how to play fetch.
 
+<br> </br>
 
 ### <strong>Pumpkin</strong>
 #### Male Ginger Cat
@@ -22,6 +23,7 @@
 <img src= >
 > Pumpkin likes to explore outside.
 
+<br> </br>
 
 ### <strong>Stormy</strong>
 #### Female Tuxedo Cat
@@ -29,6 +31,7 @@
 <img src= >
 > Stormy loves eatting.
 
+<br> </br>
 
 ## Water Pets
 ### <strong>Ivy</strong>
@@ -36,6 +39,8 @@
 ##### 2020
 <img src= >
 > Ivy likes to sunbathe.
+
+<br> </br>
 
 ### <strong>Frito</strong>
 #### Male Orange Betta Fish
