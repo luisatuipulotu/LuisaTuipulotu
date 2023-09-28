@@ -58,3 +58,4 @@
 <img src= "https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/f3300d40-c1a7-4dc4-a0cd-909491d037c0" width="300"/>
 
 > Frito is very territorial.
+We adopted Frito from [Petco](https://www.petco.com/shop/en/petcostore/search?query=betta%20fish)
