@@ -11,9 +11,9 @@
 
 <br> 
 
-### <strong>Lyla</strong>
-#### Female Tabby Cat
-##### 2014
+<H3><strong>Lyla</strong></H3> 
+<p> Female Tabby Cat</p>
+<p> 2014</p>
 <img src="https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/f455601f-ad68-4d2f-a15b-26c68139b61d" width="300"/> 
 <img src="https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/553df61f-a9a9-4996-8b4b-2fc9e7d499a6" width= "300" />
 
@@ -22,9 +22,9 @@
 
 <br> 
 
-### <strong>Pumpkin</strong>
-#### Male Ginger Cat
-##### 2017
+<H3><strong>Pumpkin</strong></H3> 
+<p> Male Ginger Cat</p>
+<p> 2017</p>
 
 <img src="https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/d566e0b8-11c9-4bba-ae47-086b1c89828b" WIDTH="300" />
 
@@ -32,9 +32,9 @@
 
 <br> 
 
-### <strong>Stormy</strong>
-#### Female Tuxedo Cat
-##### 2017
+<H3><strong>Stormy</strong></H3> 
+<p> Female Tuxedo Cat</p>
+<p> 2017</p>
 
 <img src= "https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/51db03e4-685d-4315-9155-9c2958ee25ad" width="300" />
 
