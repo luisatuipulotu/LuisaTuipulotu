@@ -1,10 +1,10 @@
-# <strong>All About My Pets</strong>
+<H1> <strong>All About My Pets</strong> </H1>
 <br> 
 
-## Cats
-### <strong>Leo</strong>
-#### Male Tabby Cat
-##### 2014
+<H2><strong>Cats</strong></H2> 
+<H3><strong>Leo</strong></H3> 
+<p> Male Tabby Cat</p>
+<p> 2014</p>
 <img src= "https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/31f055aa-4067-488c-aaa9-c77c05612659" width="300" /> 
 
 > Leo loves to bother me.
