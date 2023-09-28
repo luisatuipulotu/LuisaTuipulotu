@@ -3,19 +3,22 @@
 ### <strong>Leo</strong>
 #### Male Tabby Cat
 ##### 2014
-<img src= "https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/31f055aa-4067-488c-aaa9-c77c05612659" />
+<img src= "https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/31f055aa-4067-488c-aaa9-c77c05612659" width="300" /> 
+
 > Leo loves to bother me.
 
-<br> </br>
+<br> 
 
 ### <strong>Lyla</strong>
 #### Female Tabby Cat
 ##### 2014
-<img src="https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/f455601f-ad68-4d2f-a15b-26c68139b61d" width="100"/>
+<img src="https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/f455601f-ad68-4d2f-a15b-26c68139b61d" width="300"/> 
+<img src="https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/553df61f-a9a9-4996-8b4b-2fc9e7d499a6" width= "300" />
+
 
 > Lyla knows how to play fetch.
 
-<br> </br>
+<br> 
 
 ### <strong>Pumpkin</strong>
 #### Male Ginger Cat
@@ -23,7 +26,7 @@
 <img src= >
 > Pumpkin likes to explore outside.
 
-<br> </br>
+<br> 
 
 ### <strong>Stormy</strong>
 #### Female Tuxedo Cat
@@ -31,7 +34,7 @@
 <img src= >
 > Stormy loves eatting.
 
-<br> </br>
+<br> 
 
 ## Water Pets
 ### <strong>Ivy</strong>
@@ -40,7 +43,7 @@
 <img src= >
 > Ivy likes to sunbathe.
 
-<br> </br>
+<br> 
 
 ### <strong>Frito</strong>
 #### Male Orange Betta Fish
