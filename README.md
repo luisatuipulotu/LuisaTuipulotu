@@ -1,5 +1,3 @@
-# All About My Pets 
-
 
 ## Cats
 ### <strong>Leo</strong>
