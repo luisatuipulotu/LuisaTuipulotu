@@ -43,16 +43,18 @@
 <br> 
 
 ## Water Pets
-### <strong>Ivy</strong>
-#### Red Earred Slider Turtle
-##### 2020
-<img src= >
-> Ivy likes to sunbathe.
+<H3><strong>Ivy</strong></H3> 
+<p> Female Red Earred Slider Turtle </p>
+<p> 2020</p>
+<img src= "https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/82ca2545-d60e-4920-b0c3-9afa70a4e3c4" width="300" />
+
+> Ivy has a daughter.
 
 <br> 
 
-### <strong>Frito</strong>
-#### Male Orange Betta Fish
-##### 2023
-<img src= >
+<H3><strong>Frito</strong></H3> 
+<p> Male Orange Betta Fish</p>
+<p> 2023</p>
+<img src= "https://github.com/luisatuipulotu/LuisaTuipulotu/assets/145697785/f3300d40-c1a7-4dc4-a0cd-909491d037c0" width="300"/>
+
 > Frito is very territorial.
